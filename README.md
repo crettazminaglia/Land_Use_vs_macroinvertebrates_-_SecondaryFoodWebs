@@ -14,7 +14,7 @@ The materials here are shared to promote transparency and reproducibility of the
 
 ---
 
-## transformaciones en los arroyos
+# Transformaciones en los arroyos
 
 Este repositorio contiene el conjunto de datos y los scripts de R utilizados en el manuscrito:
 
